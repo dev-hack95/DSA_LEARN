@@ -1,0 +1,398 @@
+{
+    "elements": [
+        {
+            "organization": "urn:li:organization:2414183",
+            "pageStatisticsByCountry": [
+                {
+                    "country": "urn:li:country:us",
+                    "pageStatistics": {
+                        "views": {
+                            "allDesktopPageViews": {
+                                "pageViews": 1680
+                            },
+                            "allMobilePageViews": {
+                                "pageViews": 16
+                            },
+                            "allPageViews": {
+                                "pageViews": 1696
+                            },
+                            "careersPageViews": {
+                                "pageViews": 3
+                            },
+                            "desktopCareersPageViews": {
+                                "pageViews": 3
+                            },
+                            "desktopJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopLifeAtPageViews": {
+                                "pageViews": 3
+                            },
+                            "desktopOverviewPageViews": {
+                                "pageViews": 1677
+                            },
+                            "jobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "lifeAtPageViews": {
+                                "pageViews": 3
+                            },
+                            "mobileCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileOverviewPageViews": {
+                                "pageViews": 16
+                            },
+                            "overviewPageViews": {
+                                "pageViews": 1693
+                            }
+                        }
+                    }
+                }
+            ],
+            "pageStatisticsByFunction": [
+                {
+                    "function": "urn:li:function:1",
+                    "pageStatistics": {
+                        "views": {
+                            "allDesktopPageViews": {
+                                "pageViews": 25
+                            },
+                            "allMobilePageViews": {
+                                "pageViews": 0
+                            },
+                            "allPageViews": {
+                                "pageViews": 25
+                            },
+                            "careersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopOverviewPageViews": {
+                                "pageViews": 25
+                            },
+                            "jobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "lifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileOverviewPageViews": {
+                                "pageViews": 0
+                            },
+                            "overviewPageViews": {
+                                "pageViews": 25
+                            }
+                        }
+                    }
+                }
+            ],
+            "pageStatisticsByIndustry": [
+                {
+                    "industry": "urn:li:industry:1",
+                    "pageStatistics": {
+                        "views": {
+                            "allDesktopPageViews": {
+                                "pageViews": 33
+                            },
+                            "allMobilePageViews": {
+                                "pageViews": 0
+                            },
+                            "allPageViews": {
+                                "pageViews": 33
+                            },
+                            "careersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopOverviewPageViews": {
+                                "pageViews": 33
+                            },
+                            "jobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "lifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileOverviewPageViews": {
+                                "pageViews": 0
+                            },
+                            "overviewPageViews": {
+                                "pageViews": 33
+                            }
+                        }
+                    }
+                }
+            ],
+            "pageStatisticsByRegion": [
+                {
+                    "pageStatistics": {
+                        "views": {
+                            "allDesktopPageViews": {
+                                "pageViews": 62
+                            },
+                            "allMobilePageViews": {
+                                "pageViews": 1
+                            },
+                            "allPageViews": {
+                                "pageViews": 63
+                            },
+                            "careersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopOverviewPageViews": {
+                                "pageViews": 62
+                            },
+                            "jobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "lifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileOverviewPageViews": {
+                                "pageViews": 1
+                            },
+                            "overviewPageViews": {
+                                "pageViews": 63
+                            }
+                        }
+                    },
+                    "region": "urn:li:region:7"
+                }
+            ],
+            "pageStatisticsBySeniority": [
+                {
+                    "pageStatistics": {
+                        "views": {
+                            "allDesktopPageViews": {
+                                "pageViews": 320
+                            },
+                            "allMobilePageViews": {
+                                "pageViews": 2
+                            },
+                            "allPageViews": {
+                                "pageViews": 322
+                            },
+                            "careersPageViews": {
+                                "pageViews": 1
+                            },
+                            "desktopCareersPageViews": {
+                                "pageViews": 1
+                            },
+                            "desktopJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopLifeAtPageViews": {
+                                "pageViews": 1
+                            },
+                            "desktopOverviewPageViews": {
+                                "pageViews": 319
+                            },
+                            "jobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "lifeAtPageViews": {
+                                "pageViews": 1
+                            },
+                            "mobileCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileOverviewPageViews": {
+                                "pageViews": 2
+                            },
+                            "overviewPageViews": {
+                                "pageViews": 321
+                            }
+                        }
+                    },
+                    "seniority": "urn:li:seniority:10"
+                }
+            ],
+            "pageStatisticsByStaffCountRange": [
+                {
+                    "pageStatistics": {
+                        "views": {
+                            "allDesktopPageViews": {
+                                "pageViews": 602
+                            },
+                            "allMobilePageViews": {
+                                "pageViews": 12
+                            },
+                            "allPageViews": {
+                                "pageViews": 614
+                            },
+                            "careersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "desktopOverviewPageViews": {
+                                "pageViews": 602
+                            },
+                            "jobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "lifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileCareersPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileJobsPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileLifeAtPageViews": {
+                                "pageViews": 0
+                            },
+                            "mobileOverviewPageViews": {
+                                "pageViews": 12
+                            },
+                            "overviewPageViews": {
+                                "pageViews": 614
+                            }
+                        }
+                    },
+                    "staffCountRange": "SIZE_10001_OR_MORE"
+                }
+            ],
+            "totalPageStatistics": {
+                "clicks": {
+                    "careersPageClicks": {
+                        "careersPageBannerPromoClicks": 0,
+                        "careersPageEmployeesClicks": 0,
+                        "careersPageJobsClicks": 0,
+                        "careersPagePromoLinksClicks": 0
+                    },
+                    "mobileCareersPageClicks": {
+                        "careersPageEmployeesClicks": 0,
+                        "careersPageJobsClicks": 0,
+                        "careersPagePromoLinksClicks": 0
+                    }
+                },
+                "views": {
+                    "allDesktopPageViews": {
+                        "pageViews": 17321
+                    },
+                    "allMobilePageViews": {
+                        "pageViews": 465
+                    },
+                    "allPageViews": {
+                        "pageViews": 17786
+                    },
+                    "careersPageViews": {
+                        "pageViews": 5
+                    },
+                    "desktopCareersPageViews": {
+                        "pageViews": 5
+                    },
+                    "desktopJobsPageViews": {
+                        "pageViews": 0
+                    },
+                    "desktopLifeAtPageViews": {
+                        "pageViews": 5
+                    },
+                    "desktopOverviewPageViews": {
+                        "pageViews": 17316
+                    },
+                    "jobsPageViews": {
+                        "pageViews": 0
+                    },
+                    "lifeAtPageViews": {
+                        "pageViews": 5
+                    },
+                    "mobileCareersPageViews": {
+                        "pageViews": 0
+                    },
+                    "mobileJobsPageViews": {
+                        "pageViews": 0
+                    },
+                    "mobileLifeAtPageViews": {
+                        "pageViews": 0
+                    },
+                    "mobileOverviewPageViews": {
+                        "pageViews": 465
+                    },
+                    "overviewPageViews": {
+                        "pageViews": 17781
+                    }
+                }
+            }
+        }
+    ],
+    "paging": {
+        "count": 10,
+        "links": [],
+        "start": 0
+    }
+}
